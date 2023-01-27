@@ -1,3 +1,7 @@
+# EO Browser version
+
+Work in progress, the goal is to use the Sentinel-2 products from the EO Browser portal, a much nicer and fast way of exporting areas of interest to then process by DSen2
+
 # DSen2
 Deep Sentinel-2
 
